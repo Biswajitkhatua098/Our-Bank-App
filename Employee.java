@@ -7,4 +7,9 @@ String emp_name;
   {
     //code
   } 
+
+  public void m1()
+  {
+     //code
+  }
 }
