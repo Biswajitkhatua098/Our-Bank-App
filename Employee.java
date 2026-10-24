@@ -12,4 +12,9 @@ String emp_name;
   {
      //code
   }
+
+{
+//
+}
+
 }
