@@ -7,5 +7,10 @@ public Customer()
 {
 //code
 }
+
+public void c1()
+{
+//code
+}
 }
 
